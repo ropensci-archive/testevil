@@ -4,9 +4,9 @@
 \name{testevil}
 \alias{testevil}
 \alias{testevil-package}
-\title{...}
+\title{Intuit Package Harm}
 \description{
-...
+Intuit Package Harm
 }
 \author{
 Bob Rudis (bob@rud.is)

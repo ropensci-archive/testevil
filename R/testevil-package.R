@@ -1,4 +1,4 @@
-#' ...
+#' Intuit Package Harm
 #'
 #' @md
 #' @name testevil

@@ -1,6 +1,6 @@
 Package: testevil
 Type: Package
-Title: testevil title goes here otherwise CRAN checks fail
+Title: Intuit Package Harm
 Version: 0.1.0
 Date: 2018-05-21
 Authors@R: c(
@@ -8,7 +8,7 @@ Authors@R: c(
            comment = c(ORCID = "0000-0001-5670-2640"))
   )
 Maintainer: Bob Rudis <bob@rud.is>
-Description: A good description goes here otherwise CRAN checks fail.
+Description: Intuit package harm.
 URL: https://github.com/hrbrmstr/testevil
 BugReports: https://github.com/hrbrmstr/testevil/issues
 Encoding: UTF-8
