@@ -1,3 +1,3 @@
 .onLoad <- function(libname, pkgname) {
-  httr::GET("http://microsoft.com/")
+#  httr::GET("http://microsoft.com/")
 }
