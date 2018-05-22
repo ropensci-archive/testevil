@@ -4,10 +4,14 @@ Title: Intuit Package Harm
 Version: 0.1.0
 Date: 2018-05-21
 Authors@R: c(
-    person("Bob", "Rudis", email = "bob@rud.is", role = c("aut", "cre"), 
+    person("Ildiko", "Czeller", email = "czeildi@gmail.com", role = c("aut", "cre")), 
+    person("Karthik", "Ram", email = "karthik.ram@gmail.com", role = c("aut"), 
+           comment = c(ORCID = " 0000-0002-0233-1757")),
+    person("Kara", "Woo", role = "aut"),
+    person("Bob", "Rudis", email = "bob@rud.is", role = c("aut"), 
            comment = c(ORCID = "0000-0001-5670-2640"))
   )
-Maintainer: Bob Rudis <bob@rud.is>
+Maintainer: ropensci <ropensci@ropensci.org>
 Description: Intuit package harm.
 URL: https://github.com/hrbrmstr/testevil
 BugReports: https://github.com/hrbrmstr/testevil/issues

@@ -1,6 +1,3 @@
----
-output: rmarkdown::github_document
----
 
 # testevil
 
@@ -10,30 +7,26 @@ Intuit Package Harm
 
 Used for testing:
 
-- `middlechild`
-- `defender`
+  - `middlechild`
+  - `defender`
 
-## What's Inside The Tin
+## What’s Inside The Tin
 
 The following functions are implemented:
 
 ## Installation
 
-```{r eval=FALSE}
+``` r
 devtools::install_github("ropenscilabs/testevil")
-```
-
-```{r message=FALSE, warning=FALSE, error=FALSE, include=FALSE}
-options(width=120)
 ```
 
 ## Usage
 
-```{r message=FALSE, warning=FALSE, error=FALSE}
+``` r
 library(testevil)
 
 # current verison
 packageVersion("testevil")
-
 ```
 
+    ## [1] '0.1.0'
