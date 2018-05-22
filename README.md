@@ -1,11 +1,22 @@
 
+![](./man/figures/evilbanner.jpg)
+
+# rOpenSci Unconf 18 Project : testevil
+
+## Authors:
+
+  - Ildiko Czeller
+  - Karthik Ram
+  - Bob Rudis
+  - Kara Woo
+
 # testevil
 
 Intuit Package Harm
 
 ## Description
 
-Used for testing:
+Used for testing the following packages
 
   - `middlechild`
   - `defender`
