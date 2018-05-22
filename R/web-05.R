@@ -4,7 +4,7 @@
 web_05 <- function() {
 
   httr::POST(
-    "https://httpbin.org/",
+    "https://httpbin.org/post",
     body = list(
       some = "thing"
     )

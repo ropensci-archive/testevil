@@ -1,7 +1,7 @@
 #' @export
 exported_f <- function() {
 
-  if (TRUE) {
+   if (TRUE) {
     system2("ls")
   }
 
