@@ -1,3 +1,5 @@
+#' An exported function
+#'
 #' @export
 exported_f <- function() {
 
