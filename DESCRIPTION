@@ -13,8 +13,8 @@ Authors@R: c(
   )
 Maintainer: ropensci <ropensci@ropensci.org>
 Description: Intuit package harm.
-URL: https://github.com/hrbrmstr/testevil
-BugReports: https://github.com/hrbrmstr/testevil/issues
+URL: https://github.com/ropenscilabs/testevil
+BugReports: https://github.com/ropenscilabs/testevil/issues
 Encoding: UTF-8
 License: AGPL
 Suggests:
